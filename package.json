@@ -1,0 +1,19 @@
+{
+  "name": "logs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^8.17.2",
+    "pino-elasticsearch": "^8.0.0",
+    "winston": "^3.11.0",
+    "winston-logstash": "^1.2.1",
+    "winston-logstash-transport": "^2.0.0"
+  }
+}
